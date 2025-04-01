@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Card, CardContent } from "../components/ui/card";
-import { Input } from ../components/ui/input";
+import { Input } from "../components/ui/input";
 import { Button } from "../components/ui/button";
 import { Sparkle, AlertTriangle, Sparkles, BookOpen } from "lucide-react";
 
